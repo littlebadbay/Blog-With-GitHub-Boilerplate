@@ -14,19 +14,19 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "littlebadbay/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "IoLog"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+site_build_date = "2020-02-1278T16:51+08:00"
+author = "BI1HLL"
+email = "jjzyjjj@gmail.com"
+author_homepage = "https://www.ehcho.za.net"
+description = "freedom"
+key_words = ['Maverick', 'iolog', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -61,17 +61,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/littlebadbay",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/littlebadbay",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/jjzyjjj/",
         "icon": "gi gi-weibo"
     }
 ]
